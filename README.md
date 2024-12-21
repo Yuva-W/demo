@@ -1,2 +1,5 @@
 # demo
-demo checking git &amp;  github features
+demo checking git &amp;  github features.
+
+# adding new files 
+
