@@ -10,3 +10,12 @@
     margin: auto;
     box-shadow: 0 0 1px black;
 }
+
+header nav ul li {
+    list-style: none;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-around;
+}
